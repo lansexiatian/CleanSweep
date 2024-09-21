@@ -103,5 +103,5 @@ CleanSweep 是一个用于清理Windows系统上无用文件和文件夹的小�
 
 # 打包发布
 
-借助github action的能力，自动化打包发布exe程序。可以前往[https://github.com/Ikaros-521/CleanSweep/actions](https://github.com/Ikaros-521/CleanSweep/actions)，选择最新的一个action，进去后，翻到最下面找到压缩包下载。  
+借助github action的能力，自动化打包发布exe程序。
 
